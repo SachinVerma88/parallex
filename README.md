@@ -1,5 +1,5 @@
 Parallax-Delta
-Welcome to the Parallax-Delta project! This project is a web application that utilizes parallax scrolling effects to create a visually engaging and interactive user experience.
+Welcome to the Parallax-Delta project! This project is a web site that utilizes parallax scrolling effects to create a visually engaging and interactive user experience.
 
 Table of Contents
 Demo
